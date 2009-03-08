@@ -1,0 +1,4 @@
+category: Audio Python
+requires: mpd python
+sdesc: "Python Music Player Daemon client library"
+ldesc: "A Music Player Daemon client library written in pure Python."
