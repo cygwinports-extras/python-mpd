@@ -2,5 +2,3 @@ ORIG_PN=${PN}
 inherit distutils
 
 DESCRIPTION="Python interface for the Music Player Daemon"
-
-PATCH_URI="0.2.1-getaddrinfo.patch"
