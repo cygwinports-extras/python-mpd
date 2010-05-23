@@ -3,8 +3,8 @@ python-mpd
 A Music Player Daemon client library written in pure Python.
 
 Runtime requirements:
-  mpd-0.15-1
-  python-2.5.4-10
+  mpd-0.15.8-1
+  python-2.6.5-1
 
 Canonical website:
   http://pypi.python.org/pypi/python-mpd/
@@ -27,20 +27,10 @@ This will create:
 
 -------------------------------------------
 
-Files included in the binary package:
-
-  /usr/lib/python2.5/site-packages/mpd.py
-  /usr/lib/python2.5/site-packages/mpd.pyc
-  /usr/lib/python2.5/site-packages/mpd.pyo
-  /usr/lib/python2.5/site-packages/python_mpd-0.2.1-py2.5.egg-info
-  /usr/share/doc/python-mpd/Changes.txt
-  /usr/share/doc/python-mpd/LICENSE.txt
-  /usr/share/doc/python-mpd/README.txt
-  /usr/share/doc/python-mpd/TODO.txt
-
-------------------
-
 Port Notes:
+
+----- version 0.2.1-11 -----
+Rebuilt for Python 2.6.
 
 ----- version 0.2.1-10 -----
 Initial release for Cygwin 1.7.
