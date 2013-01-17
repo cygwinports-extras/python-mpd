@@ -1,0 +1,11 @@
+ORIG_PN=${PN}
+inherit distutils
+
+NAME="python-mpd"
+VERSION=0.3.0
+RELEASE=2
+CATEGORY="Python"
+SUMMARY="Python Music Player Daemon client library"
+DESCRIPTION="A Music Player Daemon client library written in pure Python."
+
+REQUIRES="mpd"

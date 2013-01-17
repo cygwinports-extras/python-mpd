@@ -1,4 +1,0 @@
-ORIG_PN=${PN}
-inherit distutils
-
-DESCRIPTION="Python interface for the Music Player Daemon"
