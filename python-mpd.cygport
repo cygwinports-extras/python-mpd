@@ -1,9 +1,9 @@
-ORIG_PN=${PN}
+ORIG_PN="python-mpd2"
 inherit distutils
 
 NAME="python-mpd"
-VERSION=0.3.0
-RELEASE=2
+VERSION=0.4.6
+RELEASE=1
 CATEGORY="Python"
 SUMMARY="Python Music Player Daemon client library"
 DESCRIPTION="A Music Player Daemon client library written in pure Python."
